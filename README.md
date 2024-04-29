@@ -1,3 +1,8 @@
 # Carnet:EJ24004
 # Mi_Primer_Repo
-Mi primer repositorio de prueba
+package hiGit
+Public class HiGit {
+  Public static void main(String[] args){
+        System.out.print("Hola Mundo");
+        }
+}
